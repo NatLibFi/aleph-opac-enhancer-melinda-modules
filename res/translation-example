@@ -1,0 +1,4 @@
+# Example configuration stub
+[request_translation]
+global=/path/to/config/translation.global
+eng=/path/to/config/translation.eng
